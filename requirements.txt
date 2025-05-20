@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+google-generativeai
+datetime
+requests
+pymupdf
+langchain
+qdrant-client
+beautifulsoup4
