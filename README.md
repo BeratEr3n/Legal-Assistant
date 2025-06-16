@@ -95,7 +95,7 @@ streamlit run app.py
 │   │   └── web_searcher.py
 │   ├── main.py
 │   ├── petition_page.py
-│   └── petition_page.py
+│   └── research_page.py
 ├── uploaded_pdfs    
 ├── requirements.txt
 ├── .env
