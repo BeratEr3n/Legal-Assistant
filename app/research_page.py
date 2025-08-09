@@ -5,7 +5,7 @@ from utils.query_handler import handle_general_query, handle_pdf_query, handle_i
 
 # Uygulamanın özel CSS stilini yükler
 def load_css():
-    with open("app/assets/style.css", encoding='utf-8') as f:
+    with open("assets/style.css", encoding='utf-8') as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # Araştırma sayfasını gösterir
