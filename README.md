@@ -69,7 +69,7 @@ QDRANT_API_KEY=your_qdrant_api_key_if_any
 Projeyi çalıştırmak için:
 
 ```bash
-streamlit run app.py
+streamlit run app\main.py
 ```
 
 ### Ana Özellikler:
